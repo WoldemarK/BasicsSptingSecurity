@@ -1,5 +1,6 @@
-package com.example.basicssptingsecurity.token;
+package com.example.basicssptingsecurity.repository;
 
+import com.example.basicssptingsecurity.token.Token;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

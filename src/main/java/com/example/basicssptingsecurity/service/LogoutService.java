@@ -1,4 +1,4 @@
-package com.example.basicssptingsecurity.security;
+package com.example.basicssptingsecurity.service;
 
 import com.example.basicssptingsecurity.repository.TokenRepository;
 import com.example.basicssptingsecurity.token.Token;

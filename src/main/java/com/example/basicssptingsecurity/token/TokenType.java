@@ -1,2 +1,5 @@
-package com.example.basicssptingsecurity.token;public enum TokenType {
+package com.example.basicssptingsecurity.token;
+
+public enum TokenType {
+    BEARER
 }
